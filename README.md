@@ -1,1 +1,2 @@
-# YouTube homepage clone using only HTML and CSS
+# YouTube homepage clone 
+Using only HTML and CSS
